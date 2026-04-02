@@ -2,86 +2,44 @@
 
 ### 🚀 Senior Frontend Engineer | React | TypeScript | Scalable Systems
 
-💡 5+ years of experience building **high-performance SaaS & real-time applications**
-⚡ Specialized in **React architecture, performance optimization & micro frontends**
-🔄 Experience with **real-time systems (WebRTC, Socket.IO) & secure integrations (Stripe, OAuth2)**
-📍 India
+💡 5+ years building high-performance SaaS & real-time applications  
+⚡ Specialized in React architecture, performance & micro frontends  
+🔄 WebRTC, Socket.IO, Stripe, OAuth2  
+📍 India  
 
 ---
 
 ## 🧠 What I Do
 
-* Design **scalable frontend architectures** for high-traffic applications
-* Build **reusable component systems & design frameworks**
-* Optimize performance (lazy loading, memoization, rendering optimization)
-* Develop **real-time applications (video, chat, sync systems)**
+- Design scalable frontend architectures  
+- Build reusable component systems  
+- Optimize performance (lazy loading, memoization)  
+- Develop real-time apps (video, chat, sync)  
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🚀 Frontend
-
-React.js • Next.js • TypeScript • JavaScript (ES6+)
-
-### ⚙️ State Management
-
-Redux Toolkit • Zustand • TanStack Query
-
-### 🏗 Architecture
-
-Micro Frontend (Module Federation) • Nx Monorepo • Scalable UI Systems
-
-### ⚡ Performance
-
-Code Splitting • Lazy Loading • Memoization • Rendering Optimization
-
-### 🔗 Integrations
-
-Stripe • Stripe Connect • Google OAuth2 • REST APIs
-
-### 🧠 Real-Time Tech
-
-WebRTC • Mediasoup • Socket.IO
+**Frontend:** React • Next.js • TypeScript  
+**State:** Redux Toolkit • Zustand • TanStack Query  
+**Architecture:** Micro Frontend • Nx Monorepo  
+**Real-Time:** WebRTC • Socket.IO  
+**Integrations:** Stripe • OAuth2 • REST APIs  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🔹 AI-Based Real-Time Learning Platform
+🔹 AI Real-Time Learning Platform – WebRTC + scalable architecture  
+🔹 SaaS E-commerce Platform – multi-tenant + Stripe integration  
+🔹 Travel Booking App – API integration + performance optimization  
 
-* Built real-time video + chat system using WebRTC & Socket.IO
-* Designed scalable architecture for concurrent users
-* Reduced latency and improved real-time synchronization
-
-### 🔹 SaaS E-commerce & Rental Platform
-
-* Multi-tenant system with modular architecture
-* Integrated Stripe payments & QR tracking
-* Built scalable CRM + marketplace modules
-
-### 🔹 (E-Learning Lesson Plan Builder – Developed lesson planning and content management modules)
-
- * Implemented role-based authentication and reusable UI components.
- * Enhanced API performance and reduced response time through optimization techniques.
-
-### 🔹 Healthcare Appointment System 
-
-   * Designed appointment scheduling workflows.
-   * Implemented Redux for state management.
-   * Ensured accessibility, UI consistency, and improved overall usability.
-
-### 🔹 Travel Application Platform – Built booking interfaces with filtering and search 
-
-* Integrated third-party APIs for real-time data.
-* Improved application performance and reduced load time using caching and optimization strategies
-   
+---
 
 ## 📫 Connect with me
 
 * LinkedIn: [https://linkedin.com/in/shreya-verma](https://www.linkedin.com/in/shreya-verma-4708a41b4/)
 * Email: [shreyaverma17303@gmail.com](mailto:shreyaverma17303@gmail.com)
-
 ---
 
 ## 🚧 Currently Working On
