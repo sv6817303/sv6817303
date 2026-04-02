@@ -76,18 +76,11 @@ WebRTC • Mediasoup • Socket.IO
 * Integrated third-party APIs for real-time data.
 * Improved application performance and reduced load time using caching and optimization strategies
    
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BppRmZ72yT6KsqS6VcYdf2w%3D%3D)
-
----
 
 ## 📫 Connect with me
 
 * LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shreya-verma-4708a41b4/)
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* Email: [your-email@gmail.com](mailto:shreyaverma17303@gmail.com)
 
 ---
 
