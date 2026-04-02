@@ -79,8 +79,8 @@ WebRTC • Mediasoup • Socket.IO
 
 ## 📫 Connect with me
 
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shreya-verma-4708a41b4/)
-* Email: [your-email@gmail.com](mailto:shreyaverma17303@gmail.com)
+* LinkedIn: [https://linkedin.com/in/shreya-verma](https://www.linkedin.com/in/shreya-verma-4708a41b4/)
+* Email: [shreyaverma17303@gmail.com](mailto:shreyaverma17303@gmail.com)
 
 ---
 
