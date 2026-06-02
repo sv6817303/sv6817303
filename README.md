@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Frontend Engineer | React.js | Next.js | TypeScript | AI-Assisted Development
 
-💡 5+ years of experience building scalable SaaS, Healthcare, E-commerce, Travel Booking, AI-powered, and Real-Time Communication platforms.
+💡 5 years of experience building scalable SaaS, Healthcare, E-commerce, Travel Booking, AI-powered, and Real-Time Communication platforms.
 
 ⚡ Specialized in React Architecture, Frontend Scalability, Performance Optimization, Micro Frontends, and Enterprise UI Systems.
 
