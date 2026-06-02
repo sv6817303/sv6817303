@@ -125,9 +125,9 @@ Git • GitHub • Jira • Vite • Docker • CI/CD • Agile/Scrum
 
 ## 📊 Professional Highlights
 
-✅ 5+ Years Experience
+✅ 5 Years of Experience
 
-✅ 5+ Production Applications Delivered
+✅ 5 Production Applications Delivered
 
 ✅ Real-Time Communication Systems
 
