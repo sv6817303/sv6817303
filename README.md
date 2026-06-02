@@ -1,84 +1,171 @@
 # Hi 👋, I'm Shreya Verma
 
-### 🚀 Senior Frontend Engineer | React | TypeScript | Real-Time Systems
+### 🚀 Senior Frontend Engineer | React.js | Next.js | TypeScript | AI-Assisted Development
 
-💡 **4+ years** building high-performance SaaS & real-time applications  
-⚡ Specialized in React architecture, performance optimization & micro frontends  
-🔄 WebRTC, Socket.IO, Stripe, OAuth2  
-☁️ Currently learning: **Cloud (Azure)** & **Databases (MongoDB, PostgreSQL)**  
-📍 India  
+💡 5+ years of experience building scalable SaaS, Healthcare, E-commerce, Travel Booking, AI-powered, and Real-Time Communication platforms.
+
+⚡ Specialized in React Architecture, Frontend Scalability, Performance Optimization, Micro Frontends, and Enterprise UI Systems.
+
+🔄 Experienced with WebRTC, Mediasoup, Socket.IO, Stripe, Stripe Connect, OAuth2, Google Calendar API, and AI-powered development workflows.
+
+🤖 Working with MCP (Model Context Protocol), GitHub MCP, Jira MCP, and Figma MCP to automate software development processes.
+
+📍 Chandigarh, India
 
 ---
 
 ## 🧠 What I Do
 
-- Design scalable frontend architectures (React + Nx Monorepo)
-- Build reusable component systems for enterprise
-- Optimize performance (lazy loading, code splitting, memoization)
-- Develop real-time apps (video, chat, sync) with WebRTC & Socket.IO
-- Integrate REST APIs, Stripe payments, OAuth2 workflows
-- Deploy using CI/CD pipelines (GitHub Actions)
+* Design scalable frontend architectures using React.js, Next.js, and TypeScript
+* Build reusable component libraries and design systems
+* Develop enterprise SaaS applications and multi-tenant platforms
+* Create real-time communication systems using WebRTC, Mediasoup, and Socket.IO
+* Optimize frontend performance through lazy loading, code splitting, virtualization, and caching
+* Integrate Stripe, Stripe Connect, OAuth2, Google APIs, and third-party services
+* Configure MCP servers and AI-powered engineering workflows
+* Generate PRDs, TRDs, Jira workflows, and development plans using AI-assisted tooling
+* Collaborate with Product Managers, Designers, QA Engineers, and Backend Teams to deliver scalable products
 
 ---
 
 ## 🔧 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 |
-| **State Management** | Redux Toolkit • Context API |
-| **Architecture** | Nx Monorepo • Micro Frontend • Component-Based Design |
-| **Real-Time** | WebRTC • Mediasoup • Socket.IO |
-| **Integrations** | Stripe • Stripe Connect • OAuth2 • REST APIs |
-| **Testing** | Jest • Vitest • React Testing Library |
-| **DevOps & Tools** | Git • GitHub • CI/CD • Jira • UNIX |
-| **Learning (In Progress)** | MongoDB (NoSQL) • PostgreSQL (SQL) • Microsoft Azure • JUnit/TestNG (concepts) |
+### Frontend
+
+React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • SCSS • Material UI • Ant Design • Bootstrap • Shadcn/UI
+
+### State Management
+
+Redux Toolkit • Redux Thunk • Context API • Zustand • React Query (TanStack Query)
+
+### Architecture & Scalability
+
+Nx Monorepo • Micro Frontend Architecture • Module Federation • Reusable Component Libraries • SSR/SSG • Code Splitting • Lazy Loading • Virtualization • Performance Optimization
+
+### Real-Time Systems
+
+WebRTC • Mediasoup • Socket.IO • Live Video Streaming • Real-Time Chat • Session Recovery • Concurrent User Handling
+
+### Integrations
+
+Stripe • Stripe Connect • Google OAuth2 • Google Calendar API • Seats.io • Twilio • SendGrid • REST APIs • Webhooks
+
+### AI & Developer Productivity
+
+MCP (Model Context Protocol) • GitHub MCP • Jira MCP • Figma MCP • AI Workflow Automation • Prompt Engineering • PRD Generation • TRD Documentation • LLM Integrations
+
+### AI Tools
+
+GitHub Copilot • Cursor AI • Claude AI • Amazon Q • ChatGPT
+
+### Tools & Workflow
+
+Git • GitHub • Jira • Vite • Docker • CI/CD • Agile/Scrum
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AI Real-Time Learning Platform** | Live video, chat, session tracking for 500+ concurrent users | React, WebRTC, Mediasoup, Socket.IO |
-| **SaaS E-commerce Platform** | Multi-tenant platform with payments & QR tracking | React, Redux Toolkit, Stripe, REST APIs |
-| **Travel Booking Micro-Frontend** | Scalable booking app with module federation | React, TypeScript, Webpack Module Federation |
-| **Healthcare Appointment System** | Scheduling workflows with accessibility focus | React, Redux Toolkit, REST APIs |
-| **Retail Media Dashboard** *(Learning Project)* | AdTech dashboard for sponsored products | React, MongoDB, PostgreSQL, Azure |
+### 🎓 AI-Based Real-Time Learning Platform
+
+**Tech Stack:** React.js, TypeScript, Redux Toolkit, WebRTC, Mediasoup, Socket.IO
+
+* Built scalable virtual classroom experiences
+* Developed live video communication systems
+* Implemented participant synchronization and chat modules
+* Improved reconnect recovery and media restoration workflows
+* Optimized large-session scalability and performance
 
 ---
 
-## 📊 GitHub Stats
+### 🛒 SaaS Marketplace & Rental Management Platform
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sv6817303&show_icons=true&theme=default)
+**Tech Stack:** React.js, Next.js, TypeScript, Redux Toolkit, Stripe Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sv6817303&layout=compact)
-
----
-
-## 📫 Connect with Me
-
-- **Email:** shreyaverma17303@gmail.com
-- **LinkedIn:** [linkedin.com/in/shreya-verma-4708a41b4](https://www.linkedin.com/in/shreya-verma-4708a41b4/)
-- **GitHub:** [github.com/sv6817303](https://github.com/sv6817303)
+* Multi-tenant SaaS platform
+* Vendor onboarding and dashboard management
+* Stripe Connect payment workflows
+* Inventory and booking management systems
+* Role-based access control
 
 ---
 
-## 🚧 Currently Working On
+### ✈️ Travel Booking Platform
 
-- Scaling frontend architecture for SaaS platforms
-- Learning **MongoDB, PostgreSQL, and Microsoft Azure** (1-2 week plan)
-- Building a **Retail Media Analytics Dashboard** for AdTech portfolio
+**Tech Stack:** React.js, TypeScript, React Query
 
----
-
-## 📈 What I'm Learning (Next 2 Weeks)
-
-| Week | Topic | Goal |
-|------|-------|------|
-| Week 1 | MongoDB + PostgreSQL | Basic CRUD, queries, data modeling |
-| Week 2 | Microsoft Azure + JUnit Concepts | Deploy app to Azure, understand unit testing concepts |
+* Hotel and flight booking workflows
+* Search and filtering systems
+* Third-party travel API integrations
+* Booking and user management modules
 
 ---
 
-⭐️ From [Shreya Verma](https://github.com/sv6817303)
+### 🏥 Healthcare Appointment Platform
+
+**Tech Stack:** React.js, Redux Toolkit, TypeScript
+
+* Appointment scheduling systems
+* Patient and doctor management workflows
+* Real-time slot availability integrations
+* Responsive and accessible healthcare interfaces
+
+---
+
+### 🤖 AI Feedback & Assessment Platform
+
+**Tech Stack:** React.js, TypeScript, Material UI, Redux Toolkit
+
+* Assessment management workflows
+* AI-powered recommendations
+* Role-based dashboards
+* Analytics and reporting modules
+
+---
+
+## 📊 Professional Highlights
+
+✅ 5+ Years Experience
+
+✅ 5+ Production Applications Delivered
+
+✅ Real-Time Communication Systems
+
+✅ WebRTC & Mediasoup Expertise
+
+✅ Stripe & Stripe Connect Integrations
+
+✅ Nx Monorepo Architecture
+
+✅ Micro Frontend Architecture
+
+✅ AI-Assisted Development Workflows
+
+✅ MCP Server Integrations
+
+✅ Performance Optimization & Scalability
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Azure Services
+* Cloud-Native Architectures
+* MongoDB Performance Optimization
+* PostgreSQL Query Optimization
+* AI Agent Workflows
+* Advanced MCP Ecosystem
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [shreyaverma17303@gmail.com](mailto:shreyaverma17303@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/shreya-verma-4708a41b4
+
+🐙 GitHub: github.com/sv6817303
+
+---
+
+### ⭐ Building scalable frontend systems, real-time experiences, and AI-powered developer workflows.
